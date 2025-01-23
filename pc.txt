@@ -47,17 +47,16 @@ Total: 9308K
 Pentium G4560 105K
 Gigabyte H110 367K
 Hynix 8GB DDR4 2666MHz 143K * 2 (16gb) @286K
-MSI S270 480GB 489K
 Apacer AS340 480GB 440K
 Deepcool PL550D 650K
-GTX 1050 850K / GTX 1060 6GB 1500K
+GTX 1050 850K / GTX 1060 6GB 1400K / GTX 1060 3GB 1200K
 GameMax Edge Mini Tower Micro ATX 339K
-Total @3037K (1050) / @3687K (1060)
+Total @3037K (1050) / @3587K (1060) / @3287K
 
 // upgrade path
 spek awal:
 i3 2120
-h61 usb logor anj
+h61 usb logor
 8gb ddr3
 hdd 500gb
 psu 300w build up berisik
@@ -68,15 +67,16 @@ path:
   @440K
 2. Pentium G4560 105K
   Asus H110M 357K
-  Hynix 8GB DDR4 2666MHz 143K
-  @605K
-3. PSU 2nd Branded (Be Quiet, Corsair, Antec) 330K
-  @330K
-4. GTX 1050 900K
-  @900K
-total: 2275K
+  Hynix 2x8GB DDR4 2666MHz 143K @ 286K
+  @891K
+3. Deepcool PL550D 650K
+  @650K
+4. GTX 1050 850K
+  @850K
+5. Casing?
+total: 2545K
 
-// cheap & fresh
+// affordable & fresh
 Ryzen 5 5500 1370K
 MSI B550M-A Pro 1150K
 APACER TEX 1x16GB DDR4 3200 MHz 395K
@@ -86,7 +86,7 @@ Deepcool PL550D 650K
 GameMax Edge Mini Tower Micro ATX 339K
 Total: 7077K
 
-// nomaden (sangat mini, sangat murah)
+// nomaden (mini, low powerful)
 Ryzen 5 5500 1370K
 Asrock A520I 1700K
 APACER TEX 1x16GB DDR4 3200 MHz 395K
@@ -96,7 +96,7 @@ Fractal Design Anode SFX Bronze 450W 749K
 PCCooler I100 + Riser 870K
 Total: 8257K
 
-// nomaden mid
+// nomaden optimal
 Ryzen 5 5500 1370K
 ASRock B550M ITX/AC 2274K
 APACER TEX 1x16GB DDR4 3200 MHz 395K
@@ -104,6 +104,7 @@ SSD Team MP33 M.2 2280 NVME 512GB - PCIe Gen3 x4 513K
 Zotac GeForce RTX 3060 12GB Twin Edge 4.400K
 ENERMAX REVOLUTION SFX 650W 1559K
 PCCooler I100 + Riser PCIe 4 1150K
+
 
 // peripherals
 Xiaomi G27Qi 2K 180Hz 2799K
