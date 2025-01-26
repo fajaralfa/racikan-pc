@@ -13,7 +13,7 @@
 - TOTAL: 14276K
 
 ### Affordable
-- Ryzen 5 5500 1370K
+- Ryzen 5 5600 1760K
 - Asrock B550M Pro SE 1562K
 - ADATA GAMMIX D35 DDR4 16GB (2x8GB) 3200Mhz - WHITE 470K
 - Team MP33 SSD NVMe PCIe Gen3 512 GB 440K
@@ -22,7 +22,7 @@
 - ID Cooling IS 40X V3 White 288K
 - Tecware Flatline TG MK2 Case With USB C White 620K
 - Tecware Cable Sleeve Extension White 275K
-- TOTAL: 10448K
+- TOTAL: 10838K
 
 ## MINI
 
@@ -38,24 +38,24 @@
 - TOTAL: 15217K
 
 ### Affordable, Super Mini, Powerful GPU
-- Ryzen 5 5500 1370K
+- Ryzen 5 5600 1760K
 - Asrock A520I 1700K
 - XPG Gammix D35 2x8GB DDR4 3200MHz 445K
 - Team MP33 SSD NVMe PCIe Gen3 512 GB 440K
 - Zotac GeForce RTX 3060 12GB Twin Edge 4.400K
 - Enermax PSU Revolution SFX 80+ Gold 1585K
 - PCCooler I100 + Riser 870K
-- Total: 10810K
+- Total: 11200K
 
 ### Affordable, Super Mini, Low Power GPU
-- Ryzen 5 5500 1370K
+- Ryzen 5 5600 1760K
 - Asrock A520I 1700K
 - XPG Gammix D35 2x8GB DDR4 3200MHz 445K
 - Team MP33 SSD NVMe PCIe Gen3 512 GB 440K
 - VGA Card Palit GeForce RTX 3050 StormX 6GB GDDR6 2660K
 - Fractal Design Anode SFX Bronze 450W 749K
 - PCCooler I100 + Riser 870K
-- Total: 8234K
+- Total: 8624K
 
 ## Affordable, Ultra Mini, Low Power IGPU
 - Deskmini X300 2299K
@@ -77,24 +77,24 @@
 - Total: 12647K
 
 ### Affordable, Powerful GPU
-- Ryzen 5 5500 1370K
+- Ryzen 5 5600 1760K
 - MSI B550M-A Pro 1150K
 - XPG Gammix D35 2x8GB DDR4 3200MHz 445K
 - Team MP33 512GB M.2 NVMe PCIe 3.0 440K
 - Zotac GeForce RTX 3060 12GB Twin Edge 4.400K
 - DEEPCOOL PL650D 793K
 - GameMax Edge Mini Tower Micro ATX 339K
-- Total: 8937K
+- Total: 9327K
 
 ### Affordable, Low Power GPU
-- Ryzen 5 5500 1370K
+- Ryzen 5 5600 1760K
 - MSI B550M-A Pro 1150K
 - XPG Gammix D35 2x8GB DDR4 3200MHz 445K
 - Team MP33 512GB M.2 NVMe PCIe 3.0 440K
 - VGA Card Palit GeForce RTX 3050 StormX 6GB GDDR6 2660K
 - Deepcool PL550D 650K
 - GameMax Edge Mini Tower Micro ATX 339K
-- Total: 7054K
+- Total: 7444K
 
 ### sekenan sapalih
 - i3 6100 + HSF 162K
