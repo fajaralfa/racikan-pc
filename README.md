@@ -68,13 +68,13 @@
 
 ### Bleeding Edge
 - Ryzen 5 7600 3200K
-- ASROCK B650M Pro RS 2459K
+- Gigabyte B650M K 1929K
 - TEAM T-FORCE DELTA 16GB (2X8GB) DDR5 6000Mhz RGB Black 885K
 - Team MP44L 1TB NVMe PCIe Gen4 820K
 - Zotac GeForce RTX 3060 12GB Twin Edge 4.400K
 - DEEPCOOL PL650D 793K
 - Tecware Flatline TG MK2 Case With USB C Black (incl 4 fan) 620K
-- Total: 13177K
+- Total: 12647K
 
 ### Affordable, Powerful GPU
 - Ryzen 5 5500 1370K
